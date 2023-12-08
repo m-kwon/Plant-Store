@@ -13,7 +13,7 @@ function TextCards() {
                     </div>
                     <div className='flex flex-col md:w-5/12 space-y-8 justify-center text-center md:text-left mx-4 md:mr-6 2xl:mr-0'>
                         <h2 className='font-display text-2xl md:text-4xl'>Brighten Your Living Space</h2>
-                            <p class='font-body text-lg md:text-xl tracking-wide break-words leading-loose'>
+                            <p className='font-body text-lg md:text-xl tracking-wide break-words leading-loose'>
                                 Bring nature home with you. Styling your home with plants is an easy and inexpensive way to bring the most boring rooms to life.
                             </p>
                             <Link className='' to='/shop'>

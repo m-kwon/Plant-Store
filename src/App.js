@@ -1,6 +1,6 @@
 import 'index.css'
 import ScrollToTop from "./scrollToTop";
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Provider } from 'react-redux'
 import store from './store'
 import Home from 'components/Home/Home'
@@ -16,13 +16,13 @@ const App = () => {
                 <Router>
                     <ScrollToTop />
                     <Cart />
-                    <Switch>
-                        <Route exact path='/' component={Home}/>
-                        <Route exact path='/about' component={About} />
-                        <Route exact path='/shop' component={Shop} />
-                        <Route exact path='/shop/:collection' component={Collections} />
-                        <Route exact path='/shop/collection/:name' component={ItemDetail} />
-                    </Switch>
+                    <Routes>
+                        <Route exact path='/' element={ <Home /> }/>
+                        <Route exact path='/about' element={ <About /> } />
+                        <Route exact path='/shop' element={ <Shop /> } />
+                        <Route exact path='/shop/:collection' element={ <Collections /> } />
+                        <Route exact path='/shop/collection/:name' element={ <ItemDetail /> } />
+                    </Routes>
                 </Router>
         </Provider>
     )

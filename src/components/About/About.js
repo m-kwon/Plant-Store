@@ -33,7 +33,7 @@ const About = () => {
                 <img src={aboutImg} alt='Multiple plants'/>
               </div>
               <div className='w-full md:w-5/12 flex flex-col space-y-5 m-auto text-left font-display text-sm md:text-base leading-loose'>
-                <p >Questions, comments, concerns? Bloom is always looking for new opportunities, local artisans, and ways to spread our love of plants!</p>
+                <p >Questions, comments, concerns? Flora is always looking for new opportunities, local artisans, and ways to spread our love of plants!</p>
                 <p>Email us! <br></br>example@gmail.com</p>
               </div>
             </div>
