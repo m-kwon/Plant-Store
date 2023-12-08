@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f7e54453.css",
+    "main.js": "/static/js/main.600f7e30.js",
+    "static/media/about.jpg": "/static/media/about.7bc2f1b83f7d886f774d.jpg",
+    "static/media/fiddle.jpg": "/static/media/fiddle.913a3ea31da4456549fe.jpg",
+    "static/media/hero.jpg": "/static/media/hero.a4172a3285fc4de429fa.jpg",
+    "static/media/collection.jpg": "/static/media/collection.a3117cc096f9b6a51bf0.jpg",
+    "static/media/collection2.jpg": "/static/media/collection2.f5c4a14b009d6ffce068.jpg",
+    "static/media/petFriendly.jpg": "/static/media/petFriendly.863ecd05aa78e2554b41.jpg",
+    "static/media/snake2.jpg": "/static/media/snake2.8040fe8149d28c5f3a12.jpg",
+    "static/media/aboutImg.jpg": "/static/media/aboutImg.b570e9758a303e2d0d7d.jpg",
+    "static/media/succulents.jpg": "/static/media/succulents.3b84bab0329eaee8275a.jpg",
+    "static/media/ponytail.jpg": "/static/media/ponytail.c0ae3f555a2fc7189795.jpg",
+    "static/media/window.jpg": "/static/media/window.6e4a65f5344114a96fc5.jpg",
+    "static/media/work.jpg": "/static/media/work.1ba3c24c12b92f0539eb.jpg",
+    "static/media/fern.jpg": "/static/media/fern.7e779bad3eaa570e702b.jpg",
+    "static/media/monstera.jpg": "/static/media/monstera.dc4e28e32c4d0b69cbf1.jpg",
+    "static/media/satinPothos.jpg": "/static/media/satinPothos.183e3390fa6ae7655ef2.jpg",
+    "static/media/cactusTrio.jpg": "/static/media/cactusTrio.c527818e5589dc91ce89.jpg",
+    "static/media/fiddleLeaf.jpg": "/static/media/fiddleLeaf.2ffdf738f8e4d41b3db5.jpg",
+    "static/media/dracaena.jpg": "/static/media/dracaena.66e89e3e29ba61a20605.jpg",
+    "static/media/rubberTree.jpg": "/static/media/rubberTree.f617fd11c65fa1a089eb.jpg",
+    "static/media/zz.jpg": "/static/media/zz.f80092b54c1786ed2f4e.jpg",
+    "static/media/monsteraMinima.jpg": "/static/media/monsteraMinima.eb55b055fe74540e3495.jpg",
+    "static/media/succulent.jpg": "/static/media/succulent.e166acd497d7d1645e1e.jpg",
+    "static/media/pots.jpg": "/static/media/pots.86b6da9f5699be8f558d.jpg",
+    "static/media/pothos.jpg": "/static/media/pothos.a848f628953bbd2dfeb7.jpg",
+    "static/media/peaceLily.jpg": "/static/media/peaceLily.b3ccdd07cb706e6d707b.jpg",
+    "static/media/succulentTrio.jpg": "/static/media/succulentTrio.dd082825e33b1810ef7f.jpg",
+    "static/media/snake.jpg": "/static/media/snake.4cf8b3615e51f8e5aae1.jpg",
+    "static/media/moneyPlant.jpg": "/static/media/moneyPlant.50c6a06ee8e99227bd8d.jpg",
+    "index.html": "/index.html",
+    "main.f7e54453.css.map": "/static/css/main.f7e54453.css.map",
+    "main.600f7e30.js.map": "/static/js/main.600f7e30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7e54453.css",
+    "static/js/main.600f7e30.js"
+  ]
+}
